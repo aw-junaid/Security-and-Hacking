@@ -1,5 +1,32 @@
-# Security and Hacking
-> Explore ethical hacking and security: penetration testing, vulnerability scanning, and exploit development. Includes tools, scripts, and hands-on labs.
+<img src="https://github.com/aw-junaid/aw-junaid/blob/main/Assets/asset3.webp" alt="Security & Hacking Banner" width="1000" height="250">
+<div align="left">
+<br>
+
+# Awesome Security & Hacking
+
+<h5>Explore ethical hacking and security: penetration testing, vulnerability scanning, and exploit development. Includes tools, scripts, and hands-on labs.</h5>
+
+<p>
+  <img src="https://img.shields.io/github/stars/aw-junaid/Security-and-Hacking?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/github/forks/aw-junaid/Security-and-Hacking?style=for-the-badge&color=blue" alt="Forks">
+  <img src="https://img.shields.io/github/issues/aw-junaid/Security-and-Hacking?style=for-the-badge&color=red" alt="Issues">
+  <img src="https://img.shields.io/github/last-commit/aw-junaid/Security-and-Hacking?style=for-the-badge&color=purple" alt="Last Commit">
+  <img src="https://img.shields.io/badge/License-CC0-brightgreen?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/PRs-welcome-orange?style=for-the-badge" alt="PRs Welcome">
+</p>
+
+<p>
+  <a href="#network">Network</a> •
+  <a href="#endpoint">Endpoint</a> •
+  <a href="#web-application-security">Web</a> •
+  <a href="#reverse-engineering">Reverse Engineering</a> •
+  <a href="#cryptography">Cryptography</a> •
+  <a href="#ctf">CTF</a> •
+  <a href="#wargames--practice-labs">Wargames</a> •
+  <a href="#bug-bounty">Bug Bounty</a>
+</p>
+
+</div>
 
 ## Contact With Me:
 
