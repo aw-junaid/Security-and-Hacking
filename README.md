@@ -1,7 +1,7 @@
 # Security and Hacking
 > Explore ethical hacking and security: penetration testing, vulnerability scanning, and exploit development. Includes tools, scripts, and hands-on labs.
 
-# Contact With Me:
+## Contact With Me:
 
 <div align="left">
   <a href="https://www.youtube.com/@awjunaid/featured" target="_blank">
@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
 </div>
+
+
+## Table of content
 
   - [Network](#network)
     - [Scanning / Pentesting](#scanning--pentesting)
