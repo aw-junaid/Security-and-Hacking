@@ -736,6 +736,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
 
 ## General
+ * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform for web, API, Active Directory and Kubernetes, with proof of exploitation.
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
 
 
